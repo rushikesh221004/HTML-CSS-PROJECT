@@ -45,7 +45,7 @@
     position: absolute;
     backdrop-filter: blur(80px);
     border-radius: 10%;
-    transition: 1.3s;
+    transition: 1s;
     border: 1px solid rgba(128, 128, 128, 0.74);
 }
 
